@@ -3,9 +3,8 @@
 <img src="https://raw.githubusercontent.com/mariem-khalouaoui/mariem-khalouaoui/main/banner.png" width="100%"/>
 
 <a href="https://github.com/mariem-khalouaoui">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A11CBFF&center=true&vCenter=true&width=500&lines=Building+clean%2C+scalable+software+%F0%9F%9A%80;Cloud+%26+DevOps+enthusiast+%E2%98%81%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A11CBFF&center=true&vCenter=true&width=500&lines=Data+Engineer+in+the+making+%F0%9F%9A%80;Full-stack+curious+%F0%9F%92%BB;Always+shipping+something+new+%E2%9C%A8" alt="Typing SVG" />
 </a>
-
 <br/>
 <a href="https://www.linkedin.com/in/mariem-khalouaoui-557025249/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" /></a>
 <a href="https://www.instagram.com/mariem.khalouaoui/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="inst  gr  m logo" /></a>
