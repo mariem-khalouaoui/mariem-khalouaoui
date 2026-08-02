@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hey%20there,%20I'm%20Mariem%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="<img src="https://raw.githubusercontent.com/mariem-khalouaoui/mariem-khalouaoui/main/banner.png" width="100%"/>" width="100%"/>
 
 <a href="https://github.com/mariem-khalouaoui">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A11CBFF&center=true&vCenter=true&width=500&lines=Building+clean%2C+scalable+software+%F0%9F%9A%80;Cloud+%26+DevOps+enthusiast+%E2%98%81%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
