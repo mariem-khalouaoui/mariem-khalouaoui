@@ -115,20 +115,6 @@ Outside of code, I'm probably tinkering with a web project, learning something n
 <br/>
 <br/>
 
-## 🔥 My Stats
-
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mariem-khalouaoui&show_icons=true&theme=radical&hide_border=false&border_color=ff4569&border_radius=10" width="49%" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariem-khalouaoui&layout=compact&theme=radical&hide_border=false&border_color=ff4569&border_radius=10" width="26%" alt="top languages"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=mariem-khalouaoui&locale=en&mode=daily&theme=radical&hide_border=false&border_color=ff4569&border_radius=10" width="80%" alt="streak graph"/>
-<br/><br/>
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariem-khalouaoui&theme=radical&hide_border=false&border_color=ff4569&radius=10&area=true" width="90%" alt="activity graph"/>
-</div>
-<br/>
-
 
 <br/>
 
