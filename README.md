@@ -20,13 +20,19 @@
 
 ## 👩‍💻 About Me
 
-```yaml
-name: Mariem Khalouaoui
-role: Software Engineer
-current_focus: 📚 Learning Kubernetes & distributed systems
-hobbies: ⚡ Building side projects, exploring cloud tech, open source
-fun_fact: 🔭 Currently working on making infrastructure easier to manage
-```
+
+<div align="center">
+### 👋 Salam, I'm <span style="color:#2575fc">Mariem</span>
+ 
+I'm training to become a Data Engineer.
+ 
+I help make sense of data — pipelines, structure, and all the messy stuff in between.
+ 
+Outside of code, I'm probably tinkering with a web project, learning something new, or down a random rabbit hole.
+ 
+**Always curious, always building.**
+ 
+</div>
 
 <br/>
 
