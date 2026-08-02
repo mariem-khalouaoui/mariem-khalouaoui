@@ -117,7 +117,7 @@ Outside of code, I'm probably tinkering with a web project, learning something n
 
 ## 🔥 My Stats
 
-
+ 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mariem-khalouaoui&show_icons=true&theme=radical&hide_border=false&border_color=ff4569&border_radius=10" width="49%" alt="github stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariem-khalouaoui&layout=compact&theme=radical&hide_border=false&border_color=ff4569&border_radius=10" width="26%" alt="top languages"/>
@@ -129,11 +129,6 @@ Outside of code, I'm probably tinkering with a web project, learning something n
 </div>
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariem-khalouaoui&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</div>
 
 <br/>
 
