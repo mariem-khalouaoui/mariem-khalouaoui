@@ -117,8 +117,9 @@ Outside of code, I'm probably tinkering with a web project, learning something n
 
 ## 🔥 My Stats
 
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mariem-khalouaoui&show_icons=true&theme=radical&hide_border=false&border_color=ff4569&border_radius=10&include_all_commits=true&count_private=true" width="49%" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mariem-khalouaoui&show_icons=true&theme=radical&hide_border=false&border_color=ff4569&border_radius=10" width="49%" alt="github stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariem-khalouaoui&layout=compact&theme=radical&hide_border=false&border_color=ff4569&border_radius=10" width="26%" alt="top languages"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=mariem-khalouaoui&locale=en&mode=daily&theme=radical&hide_border=false&border_color=ff4569&border_radius=10" width="80%" alt="streak graph"/>
