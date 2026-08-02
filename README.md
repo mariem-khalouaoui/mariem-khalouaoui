@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mariem-khalouaoui/mariem-khalouaoui/main/banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/mariem-khalouaoui/mariem-khalouaoui/main/banner.jpg" width="100%"/>
 
 <a href="https://github.com/mariem-khalouaoui">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A11CBFF&center=true&vCenter=true&width=500&lines=Building+clean%2C+scalable+software+%F0%9F%9A%80;Cloud+%26+DevOps+enthusiast+%E2%98%81%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
