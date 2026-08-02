@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mariem-khalouaoui/mariem-khalouaoui/main/banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/mariem-khalouaoui/mariem-khalouaoui/main/mybanner.png" width="100%"/>
 
 <a href="https://github.com/mariem-khalouaoui">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A11CBFF&center=true&vCenter=true&width=500&lines=Data+Engineer+in+the+making+%F0%9F%9A%80;Full-stack+curious+%F0%9F%92%BB;Always+shipping+something+new+%E2%9C%A8" alt="Typing SVG" />
